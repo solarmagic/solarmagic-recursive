@@ -1,1 +1,1 @@
-![Woah!](https://github.com/solarmagic/solarmagic/blob/master/screenshot-2.png)
+![Woah!](https://github.com/solarmagic/solarmagic/blob/master/screenshot-1.png)
